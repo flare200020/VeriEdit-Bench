@@ -1,0 +1,141 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "web_0156",
+  "family": "color",
+  "edit_family": "color_replace",
+  "coverage_status": "covered",
+  "canvas": [
+    900,
+    1440
+  ],
+  "objects": [
+    {
+      "pair_id": 0,
+      "param_from": "#c96442",
+      "from_resolved_hex": "#c96442",
+      "param_to": "#27ae60",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 5104,
+      "tgt_region_px": 5104,
+      "core_px": 3728,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 3728
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          201,
+          100,
+          66
+        ],
+        "tgt_rgb_med": [
+          39,
+          174,
+          96
+        ],
+        "src_lab_med": [
+          53.9513,
+          37.5152,
+          37.4522
+        ],
+        "tgt_lab_med": [
+          62.9657,
+          -52.7999,
+          30.1699
+        ],
+        "tgt_rgb_p10": [
+          39,
+          174,
+          96
+        ],
+        "tgt_rgb_p90": [
+          39,
+          174,
+          96
+        ],
+        "src_to_tgt_dE00": 57.4804
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          39,
+          174,
+          96
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        97.6038,
+        -0.2026,
+        2.6298
+      ]
+    },
+    {
+      "pair_id": 1,
+      "param_from": "#e0ddd5",
+      "from_resolved_hex": "#e0ddd5",
+      "param_to": "#cfeaf2",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 1534,
+      "tgt_region_px": 1534,
+      "core_px": 1534,
+      "core_kind": "skeleton",
+      "core_decision_trace": {
+        "erode2_px": 0,
+        "skeleton_px": 1534
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          224,
+          221,
+          213
+        ],
+        "tgt_rgb_med": [
+          207,
+          234,
+          242
+        ],
+        "src_lab_med": [
+          88.1438,
+          -0.3808,
+          4.2801
+        ],
+        "tgt_lab_med": [
+          91.0168,
+          -7.2271,
+          -6.862
+        ],
+        "tgt_rgb_p10": [
+          207,
+          234,
+          242
+        ],
+        "tgt_rgb_p90": [
+          207,
+          234,
+          242
+        ],
+        "src_to_tgt_dE00": 12.46
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          207,
+          234,
+          242
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        97.6038,
+        -0.2026,
+        2.6298
+      ]
+    }
+  ],
+  "area": {
+    "allowed_mask_area_px": 6951,
+    "allowed_mask_frac": 0.00536343,
+    "target_core_area_px": 5262,
+    "target_core_frac": 0.00406019
+  },
+  "uncertifiable_reason": null
+}

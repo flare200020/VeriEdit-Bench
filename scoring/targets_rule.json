@@ -1,0 +1,19 @@
+{
+  "schema": "targets_rule/v1",
+  "params": {
+    "tau_pass": 5.0,
+    "tau_src": 5.0,
+    "tau_bg": 5.0,
+    "cov_lo": 0.0,
+    "cov_hi": 0.55,
+    "weak_sep_mode": "relative",
+    "weak_sep_alpha": 0.4,
+    "tgt_eq_bg_de00": 5.0,
+    "vanished_bg_min": 0.9,
+    "vanished_new_ink_max": 0.1,
+    "peak_major_share": 0.08,
+    "peak_missing_share": 0.1,
+    "peak_miss_ratio": 0.5,
+    "ok_cov_min": 0.5
+  }
+}

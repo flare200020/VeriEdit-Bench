@@ -1,0 +1,19 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "web_0369",
+  "family": null,
+  "edit_family": "text_replace",
+  "coverage_status": "uncovered_family",
+  "canvas": [
+    900,
+    1440
+  ],
+  "objects": [],
+  "area": {
+    "allowed_mask_area_px": 11967,
+    "allowed_mask_frac": 0.0092338,
+    "target_core_area_px": null,
+    "target_core_frac": null
+  },
+  "uncertifiable_reason": null
+}

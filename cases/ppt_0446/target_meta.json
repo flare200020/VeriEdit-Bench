@@ -1,0 +1,80 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "ppt_0446",
+  "family": "color",
+  "edit_family": "color_replace",
+  "coverage_status": "covered",
+  "canvas": [
+    864,
+    1536
+  ],
+  "objects": [
+    {
+      "pair_id": 0,
+      "param_from": "#2E7D32",
+      "from_resolved_hex": "#2e7d32",
+      "param_to": "#27ae60",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 29977,
+      "tgt_region_px": 29977,
+      "core_px": 20598,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 20598
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          46,
+          125,
+          50
+        ],
+        "tgt_rgb_med": [
+          39,
+          174,
+          96
+        ],
+        "src_lab_med": [
+          46.2814,
+          -40.2581,
+          33.3234
+        ],
+        "tgt_lab_med": [
+          62.9657,
+          -52.7999,
+          30.1699
+        ],
+        "tgt_rgb_p10": [
+          39,
+          174,
+          96
+        ],
+        "tgt_rgb_p90": [
+          39,
+          174,
+          96
+        ],
+        "src_to_tgt_dE00": 16.6808
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          39,
+          174,
+          96
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        96.5375,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "area": {
+    "allowed_mask_area_px": 32730,
+    "allowed_mask_frac": 0.02466272,
+    "target_core_area_px": 20598,
+    "target_core_frac": 0.01552101
+  },
+  "uncertifiable_reason": null
+}

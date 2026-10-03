@@ -1,0 +1,121 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "svg_0254",
+  "family": "color",
+  "edit_family": "color_replace",
+  "coverage_status": "covered",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "objects": [
+    {
+      "pair_id": 0,
+      "param_from": "#ffff00",
+      "from_resolved_hex": "#ffff00",
+      "param_to": "#1d84b0",
+      "src_find_rule": "hue_sector_nn",
+      "src_region_px": 21764,
+      "tgt_region_px": 21764,
+      "core_px": 19152,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 19152
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          106,
+          95,
+          30
+        ],
+        "tgt_rgb_med": [
+          60,
+          70,
+          65
+        ],
+        "src_lab_med": [
+          40.1519,
+          -3.8792,
+          37.2483
+        ],
+        "tgt_lab_med": [
+          28.7014,
+          -5.2368,
+          1.6433
+        ],
+        "tgt_rgb_p10": [
+          60,
+          70,
+          65
+        ],
+        "tgt_rgb_p90": [
+          228,
+          236,
+          240
+        ],
+        "src_to_tgt_dE00": 21.9636,
+        "repr_kind": "multi_hist",
+        "repr_diag": {
+          "core_outlier_frac_gt_med": 0.205879,
+          "core_outlier_frac_src_med": 0.205879,
+          "region_cover_share_tgt": 0.970272,
+          "region_cover_share_src": 0.958418
+        },
+        "tgt_peaks": [
+          [
+            28.6995,
+            -5.2337,
+            1.6491,
+            0.75896
+          ],
+          [
+            92.9828,
+            -1.8824,
+            -2.8043,
+            0.211312
+          ]
+        ]
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          29,
+          132,
+          176
+        ],
+        "dE00_vs_rendered": 28.7356
+      },
+      "bg_ring_lab_med": [
+        24.5264,
+        3.2792,
+        13.6257
+      ],
+      "src_render": {
+        "repr_kind": "multi_hist",
+        "src_peaks": [
+          [
+            40.1522,
+            -3.8768,
+            37.249,
+            0.754135
+          ],
+          [
+            96.4091,
+            -3.3814,
+            9.6072,
+            0.204282
+          ]
+        ],
+        "repr_diag": {
+          "region_cover_share_src": 0.958418
+        }
+      }
+    }
+  ],
+  "area": {
+    "allowed_mask_area_px": 21764,
+    "allowed_mask_frac": 0.02075577,
+    "target_core_area_px": 19152,
+    "target_core_frac": 0.01826477
+  },
+  "uncertifiable_reason": null
+}

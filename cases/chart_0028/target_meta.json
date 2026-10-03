@@ -1,0 +1,321 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "chart_0028",
+  "family": "color",
+  "edit_family": "palette_swap",
+  "coverage_status": "covered",
+  "canvas": [
+    800,
+    2400
+  ],
+  "objects": [
+    {
+      "pair_id": 0,
+      "param_from": "#5377ca",
+      "from_resolved_hex": "#5377ca",
+      "param_to": "#0b1026",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 13823,
+      "tgt_region_px": 13823,
+      "core_px": 11115,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 11115
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          83,
+          119,
+          202
+        ],
+        "tgt_rgb_med": [
+          11,
+          16,
+          38
+        ],
+        "src_lab_med": [
+          51.0308,
+          12.4849,
+          -47.0135
+        ],
+        "tgt_lab_med": [
+          5.2538,
+          4.925,
+          -15.3231
+        ],
+        "tgt_rgb_p10": [
+          11,
+          16,
+          38
+        ],
+        "tgt_rgb_p90": [
+          11,
+          16,
+          38
+        ],
+        "src_to_tgt_dE00": 37.4253
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          11,
+          16,
+          38
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 1,
+      "param_from": "#e08a57",
+      "from_resolved_hex": "#e08a57",
+      "param_to": "#1a3a6b",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 21551,
+      "tgt_region_px": 21551,
+      "core_px": 17499,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 17499
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          224,
+          138,
+          87
+        ],
+        "tgt_rgb_med": [
+          26,
+          58,
+          107
+        ],
+        "src_lab_med": [
+          65.5272,
+          28.0694,
+          40.7674
+        ],
+        "tgt_lab_med": [
+          24.6607,
+          6.8436,
+          -32.0197
+        ],
+        "tgt_rgb_p10": [
+          26,
+          58,
+          107
+        ],
+        "tgt_rgb_p90": [
+          26,
+          58,
+          107
+        ],
+        "src_to_tgt_dE00": 55.4093
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          26,
+          58,
+          107
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 2,
+      "param_from": "#91c4df",
+      "from_resolved_hex": "#91c4df",
+      "param_to": "#4fc3f7",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 28796,
+      "tgt_region_px": 28796,
+      "core_px": 23484,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 23484
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          145,
+          196,
+          223
+        ],
+        "tgt_rgb_med": [
+          79,
+          195,
+          247
+        ],
+        "src_lab_med": [
+          76.5728,
+          -10.0982,
+          -18.771
+        ],
+        "tgt_lab_med": [
+          74.4472,
+          -16.6644,
+          -35.197
+        ],
+        "tgt_rgb_p10": [
+          79,
+          195,
+          247
+        ],
+        "tgt_rgb_p90": [
+          79,
+          195,
+          247
+        ],
+        "src_to_tgt_dE00": 7.5582
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          79,
+          195,
+          247
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 3,
+      "param_from": "#d1bc73",
+      "from_resolved_hex": "#d1bc73",
+      "param_to": "#66bb6a",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 40503,
+      "tgt_region_px": 40503,
+      "core_px": 33155,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 33155
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          209,
+          188,
+          115
+        ],
+        "tgt_rgb_med": [
+          102,
+          187,
+          106
+        ],
+        "src_lab_med": [
+          76.5342,
+          -2.422,
+          39.5416
+        ],
+        "tgt_lab_med": [
+          69.0431,
+          -42.6156,
+          33.1711
+        ],
+        "tgt_rgb_p10": [
+          102,
+          187,
+          106
+        ],
+        "tgt_rgb_p90": [
+          102,
+          187,
+          106
+        ],
+        "src_to_tgt_dE00": 23.1711
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          102,
+          187,
+          106
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 4,
+      "param_from": "white",
+      "from_resolved_hex": "#ffffff",
+      "param_to": "#8a9bb3",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 28674,
+      "tgt_region_px": 28674,
+      "core_px": 9526,
+      "core_kind": "skeleton",
+      "core_decision_trace": {
+        "erode2_px": 0,
+        "skeleton_px": 9526
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          255,
+          255,
+          255
+        ],
+        "tgt_rgb_med": [
+          138,
+          158,
+          179
+        ],
+        "src_lab_med": [
+          100.0,
+          0.0,
+          0.0
+        ],
+        "tgt_lab_med": [
+          63.7224,
+          -0.6475,
+          -14.4634
+        ],
+        "tgt_rgb_p10": [
+          125,
+          144,
+          171
+        ],
+        "tgt_rgb_p90": [
+          150,
+          165,
+          187
+        ],
+        "src_to_tgt_dE00": 26.9408
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          138,
+          155,
+          179
+        ],
+        "dE00_vs_rendered": 0.249
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "area": {
+    "allowed_mask_area_px": 133719,
+    "allowed_mask_frac": 0.06964531,
+    "target_core_area_px": 94779,
+    "target_core_frac": 0.04936406
+  },
+  "uncertifiable_reason": null
+}

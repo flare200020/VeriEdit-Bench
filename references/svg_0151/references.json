@@ -1,0 +1,458 @@
+{
+  "case_id": "svg_0151",
+  "n_references": 64,
+  "period_svg_units": 16.0,
+  "phases": [
+    {
+      "index": 0,
+      "fraction": 0.0,
+      "offset_svg_units": 0.0,
+      "target": "phase_00.png",
+      "mask": "mask_00.png"
+    },
+    {
+      "index": 1,
+      "fraction": 0.015625,
+      "offset_svg_units": 0.25,
+      "target": "phase_01.png",
+      "mask": "mask_01.png"
+    },
+    {
+      "index": 2,
+      "fraction": 0.03125,
+      "offset_svg_units": 0.5,
+      "target": "phase_02.png",
+      "mask": "mask_02.png"
+    },
+    {
+      "index": 3,
+      "fraction": 0.046875,
+      "offset_svg_units": 0.75,
+      "target": "phase_03.png",
+      "mask": "mask_03.png"
+    },
+    {
+      "index": 4,
+      "fraction": 0.0625,
+      "offset_svg_units": 1.0,
+      "target": "phase_04.png",
+      "mask": "mask_04.png"
+    },
+    {
+      "index": 5,
+      "fraction": 0.078125,
+      "offset_svg_units": 1.25,
+      "target": "phase_05.png",
+      "mask": "mask_05.png"
+    },
+    {
+      "index": 6,
+      "fraction": 0.09375,
+      "offset_svg_units": 1.5,
+      "target": "phase_06.png",
+      "mask": "mask_06.png"
+    },
+    {
+      "index": 7,
+      "fraction": 0.109375,
+      "offset_svg_units": 1.75,
+      "target": "phase_07.png",
+      "mask": "mask_07.png"
+    },
+    {
+      "index": 8,
+      "fraction": 0.125,
+      "offset_svg_units": 2.0,
+      "target": "phase_08.png",
+      "mask": "mask_08.png"
+    },
+    {
+      "index": 9,
+      "fraction": 0.140625,
+      "offset_svg_units": 2.25,
+      "target": "phase_09.png",
+      "mask": "mask_09.png"
+    },
+    {
+      "index": 10,
+      "fraction": 0.15625,
+      "offset_svg_units": 2.5,
+      "target": "phase_10.png",
+      "mask": "mask_10.png"
+    },
+    {
+      "index": 11,
+      "fraction": 0.171875,
+      "offset_svg_units": 2.75,
+      "target": "phase_11.png",
+      "mask": "mask_11.png"
+    },
+    {
+      "index": 12,
+      "fraction": 0.1875,
+      "offset_svg_units": 3.0,
+      "target": "phase_12.png",
+      "mask": "mask_12.png"
+    },
+    {
+      "index": 13,
+      "fraction": 0.203125,
+      "offset_svg_units": 3.25,
+      "target": "phase_13.png",
+      "mask": "mask_13.png"
+    },
+    {
+      "index": 14,
+      "fraction": 0.21875,
+      "offset_svg_units": 3.5,
+      "target": "phase_14.png",
+      "mask": "mask_14.png"
+    },
+    {
+      "index": 15,
+      "fraction": 0.234375,
+      "offset_svg_units": 3.75,
+      "target": "phase_15.png",
+      "mask": "mask_15.png"
+    },
+    {
+      "index": 16,
+      "fraction": 0.25,
+      "offset_svg_units": 4.0,
+      "target": "phase_16.png",
+      "mask": "mask_16.png"
+    },
+    {
+      "index": 17,
+      "fraction": 0.265625,
+      "offset_svg_units": 4.25,
+      "target": "phase_17.png",
+      "mask": "mask_17.png"
+    },
+    {
+      "index": 18,
+      "fraction": 0.28125,
+      "offset_svg_units": 4.5,
+      "target": "phase_18.png",
+      "mask": "mask_18.png"
+    },
+    {
+      "index": 19,
+      "fraction": 0.296875,
+      "offset_svg_units": 4.75,
+      "target": "phase_19.png",
+      "mask": "mask_19.png"
+    },
+    {
+      "index": 20,
+      "fraction": 0.3125,
+      "offset_svg_units": 5.0,
+      "target": "phase_20.png",
+      "mask": "mask_20.png"
+    },
+    {
+      "index": 21,
+      "fraction": 0.328125,
+      "offset_svg_units": 5.25,
+      "target": "phase_21.png",
+      "mask": "mask_21.png"
+    },
+    {
+      "index": 22,
+      "fraction": 0.34375,
+      "offset_svg_units": 5.5,
+      "target": "phase_22.png",
+      "mask": "mask_22.png"
+    },
+    {
+      "index": 23,
+      "fraction": 0.359375,
+      "offset_svg_units": 5.75,
+      "target": "phase_23.png",
+      "mask": "mask_23.png"
+    },
+    {
+      "index": 24,
+      "fraction": 0.375,
+      "offset_svg_units": 6.0,
+      "target": "phase_24.png",
+      "mask": "mask_24.png"
+    },
+    {
+      "index": 25,
+      "fraction": 0.390625,
+      "offset_svg_units": 6.25,
+      "target": "phase_25.png",
+      "mask": "mask_25.png"
+    },
+    {
+      "index": 26,
+      "fraction": 0.40625,
+      "offset_svg_units": 6.5,
+      "target": "phase_26.png",
+      "mask": "mask_26.png"
+    },
+    {
+      "index": 27,
+      "fraction": 0.421875,
+      "offset_svg_units": 6.75,
+      "target": "phase_27.png",
+      "mask": "mask_27.png"
+    },
+    {
+      "index": 28,
+      "fraction": 0.4375,
+      "offset_svg_units": 7.0,
+      "target": "phase_28.png",
+      "mask": "mask_28.png"
+    },
+    {
+      "index": 29,
+      "fraction": 0.453125,
+      "offset_svg_units": 7.25,
+      "target": "phase_29.png",
+      "mask": "mask_29.png"
+    },
+    {
+      "index": 30,
+      "fraction": 0.46875,
+      "offset_svg_units": 7.5,
+      "target": "phase_30.png",
+      "mask": "mask_30.png"
+    },
+    {
+      "index": 31,
+      "fraction": 0.484375,
+      "offset_svg_units": 7.75,
+      "target": "phase_31.png",
+      "mask": "mask_31.png"
+    },
+    {
+      "index": 32,
+      "fraction": 0.5,
+      "offset_svg_units": 8.0,
+      "target": "phase_32.png",
+      "mask": "mask_32.png"
+    },
+    {
+      "index": 33,
+      "fraction": 0.515625,
+      "offset_svg_units": 8.25,
+      "target": "phase_33.png",
+      "mask": "mask_33.png"
+    },
+    {
+      "index": 34,
+      "fraction": 0.53125,
+      "offset_svg_units": 8.5,
+      "target": "phase_34.png",
+      "mask": "mask_34.png"
+    },
+    {
+      "index": 35,
+      "fraction": 0.546875,
+      "offset_svg_units": 8.75,
+      "target": "phase_35.png",
+      "mask": "mask_35.png"
+    },
+    {
+      "index": 36,
+      "fraction": 0.5625,
+      "offset_svg_units": 9.0,
+      "target": "phase_36.png",
+      "mask": "mask_36.png"
+    },
+    {
+      "index": 37,
+      "fraction": 0.578125,
+      "offset_svg_units": 9.25,
+      "target": "phase_37.png",
+      "mask": "mask_37.png"
+    },
+    {
+      "index": 38,
+      "fraction": 0.59375,
+      "offset_svg_units": 9.5,
+      "target": "phase_38.png",
+      "mask": "mask_38.png"
+    },
+    {
+      "index": 39,
+      "fraction": 0.609375,
+      "offset_svg_units": 9.75,
+      "target": "phase_39.png",
+      "mask": "mask_39.png"
+    },
+    {
+      "index": 40,
+      "fraction": 0.625,
+      "offset_svg_units": 10.0,
+      "target": "phase_40.png",
+      "mask": "mask_40.png"
+    },
+    {
+      "index": 41,
+      "fraction": 0.640625,
+      "offset_svg_units": 10.25,
+      "target": "phase_41.png",
+      "mask": "mask_41.png"
+    },
+    {
+      "index": 42,
+      "fraction": 0.65625,
+      "offset_svg_units": 10.5,
+      "target": "phase_42.png",
+      "mask": "mask_42.png"
+    },
+    {
+      "index": 43,
+      "fraction": 0.671875,
+      "offset_svg_units": 10.75,
+      "target": "phase_43.png",
+      "mask": "mask_43.png"
+    },
+    {
+      "index": 44,
+      "fraction": 0.6875,
+      "offset_svg_units": 11.0,
+      "target": "phase_44.png",
+      "mask": "mask_44.png"
+    },
+    {
+      "index": 45,
+      "fraction": 0.703125,
+      "offset_svg_units": 11.25,
+      "target": "phase_45.png",
+      "mask": "mask_45.png"
+    },
+    {
+      "index": 46,
+      "fraction": 0.71875,
+      "offset_svg_units": 11.5,
+      "target": "phase_46.png",
+      "mask": "mask_46.png"
+    },
+    {
+      "index": 47,
+      "fraction": 0.734375,
+      "offset_svg_units": 11.75,
+      "target": "phase_47.png",
+      "mask": "mask_47.png"
+    },
+    {
+      "index": 48,
+      "fraction": 0.75,
+      "offset_svg_units": 12.0,
+      "target": "phase_48.png",
+      "mask": "mask_48.png"
+    },
+    {
+      "index": 49,
+      "fraction": 0.765625,
+      "offset_svg_units": 12.25,
+      "target": "phase_49.png",
+      "mask": "mask_49.png"
+    },
+    {
+      "index": 50,
+      "fraction": 0.78125,
+      "offset_svg_units": 12.5,
+      "target": "phase_50.png",
+      "mask": "mask_50.png"
+    },
+    {
+      "index": 51,
+      "fraction": 0.796875,
+      "offset_svg_units": 12.75,
+      "target": "phase_51.png",
+      "mask": "mask_51.png"
+    },
+    {
+      "index": 52,
+      "fraction": 0.8125,
+      "offset_svg_units": 13.0,
+      "target": "phase_52.png",
+      "mask": "mask_52.png"
+    },
+    {
+      "index": 53,
+      "fraction": 0.828125,
+      "offset_svg_units": 13.25,
+      "target": "phase_53.png",
+      "mask": "mask_53.png"
+    },
+    {
+      "index": 54,
+      "fraction": 0.84375,
+      "offset_svg_units": 13.5,
+      "target": "phase_54.png",
+      "mask": "mask_54.png"
+    },
+    {
+      "index": 55,
+      "fraction": 0.859375,
+      "offset_svg_units": 13.75,
+      "target": "phase_55.png",
+      "mask": "mask_55.png"
+    },
+    {
+      "index": 56,
+      "fraction": 0.875,
+      "offset_svg_units": 14.0,
+      "target": "phase_56.png",
+      "mask": "mask_56.png"
+    },
+    {
+      "index": 57,
+      "fraction": 0.890625,
+      "offset_svg_units": 14.25,
+      "target": "phase_57.png",
+      "mask": "mask_57.png"
+    },
+    {
+      "index": 58,
+      "fraction": 0.90625,
+      "offset_svg_units": 14.5,
+      "target": "phase_58.png",
+      "mask": "mask_58.png"
+    },
+    {
+      "index": 59,
+      "fraction": 0.921875,
+      "offset_svg_units": 14.75,
+      "target": "phase_59.png",
+      "mask": "mask_59.png"
+    },
+    {
+      "index": 60,
+      "fraction": 0.9375,
+      "offset_svg_units": 15.0,
+      "target": "phase_60.png",
+      "mask": "mask_60.png"
+    },
+    {
+      "index": 61,
+      "fraction": 0.953125,
+      "offset_svg_units": 15.25,
+      "target": "phase_61.png",
+      "mask": "mask_61.png"
+    },
+    {
+      "index": 62,
+      "fraction": 0.96875,
+      "offset_svg_units": 15.5,
+      "target": "phase_62.png",
+      "mask": "mask_62.png"
+    },
+    {
+      "index": 63,
+      "fraction": 0.984375,
+      "offset_svg_units": 15.75,
+      "target": "phase_63.png",
+      "mask": "mask_63.png"
+    }
+  ],
+  "support_pixels": 14031,
+  "selection": "Within the union of all reference change regions, select the complete reference with the smallest mean squared error to the Gaussian-smoothed RGB output; ties go to the lower index. All four axes and H use this single reference.",
+  "scope": "64 relative starting phases shared by all target strokes; dash length, gap, centerline, width, color, and object extent are unchanged."
+}

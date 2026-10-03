@@ -1,0 +1,320 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "chart_0069",
+  "family": "color",
+  "edit_family": "palette_swap",
+  "coverage_status": "covered",
+  "canvas": [
+    1600,
+    1600
+  ],
+  "objects": [
+    {
+      "pair_id": 0,
+      "param_from": "#264653",
+      "from_resolved_hex": "#264653",
+      "param_to": "#0b1026",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 312333,
+      "tgt_region_px": 312333,
+      "core_px": 305779,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 305779
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          38,
+          70,
+          83
+        ],
+        "tgt_rgb_med": [
+          11,
+          16,
+          38
+        ],
+        "src_lab_med": [
+          27.89,
+          -7.6286,
+          -11.409
+        ],
+        "tgt_lab_med": [
+          5.2538,
+          4.925,
+          -15.3231
+        ],
+        "tgt_rgb_p10": [
+          11,
+          16,
+          38
+        ],
+        "tgt_rgb_p90": [
+          11,
+          16,
+          38
+        ],
+        "src_to_tgt_dE00": 20.9035
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          11,
+          16,
+          38
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 1,
+      "param_from": "#2A9D8F",
+      "from_resolved_hex": "#2a9d8f",
+      "param_to": "#1a3a6b",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 245254,
+      "tgt_region_px": 245254,
+      "core_px": 239240,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 239240
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          42,
+          157,
+          143
+        ],
+        "tgt_rgb_med": [
+          26,
+          58,
+          107
+        ],
+        "src_lab_med": [
+          58.5903,
+          -34.5518,
+          -1.7778
+        ],
+        "tgt_lab_med": [
+          24.6607,
+          6.8436,
+          -32.0197
+        ],
+        "tgt_rgb_p10": [
+          26,
+          58,
+          107
+        ],
+        "tgt_rgb_p90": [
+          26,
+          58,
+          107
+        ],
+        "src_to_tgt_dE00": 42.101
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          26,
+          58,
+          107
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 2,
+      "param_from": "#E9C46A",
+      "from_resolved_hex": "#e9c46a",
+      "param_to": "#4fc3f7",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 155659,
+      "tgt_region_px": 155659,
+      "core_px": 150267,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 150267
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          233,
+          196,
+          106
+        ],
+        "tgt_rgb_med": [
+          79,
+          195,
+          247
+        ],
+        "src_lab_med": [
+          80.6537,
+          2.4263,
+          49.5496
+        ],
+        "tgt_lab_med": [
+          74.4472,
+          -16.6644,
+          -35.197
+        ],
+        "tgt_rgb_p10": [
+          79,
+          195,
+          247
+        ],
+        "tgt_rgb_p90": [
+          79,
+          195,
+          247
+        ],
+        "src_to_tgt_dE00": 48.772
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          79,
+          195,
+          247
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        73.5075,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "pair_id": 3,
+      "param_from": "#F4A261",
+      "from_resolved_hex": "#f4a261",
+      "param_to": "#66bb6a",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 99591,
+      "tgt_region_px": 99591,
+      "core_px": 94686,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 94686
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          244,
+          162,
+          97
+        ],
+        "tgt_rgb_med": [
+          102,
+          187,
+          106
+        ],
+        "src_lab_med": [
+          73.5075,
+          24.1497,
+          45.7589
+        ],
+        "tgt_lab_med": [
+          69.0431,
+          -42.6156,
+          33.1711
+        ],
+        "tgt_rgb_p10": [
+          102,
+          187,
+          106
+        ],
+        "tgt_rgb_p90": [
+          102,
+          187,
+          106
+        ],
+        "src_to_tgt_dE00": 42.7359
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          102,
+          187,
+          106
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        80.6537,
+        2.4263,
+        38.4427
+      ]
+    },
+    {
+      "pair_id": 4,
+      "param_from": "#E76F51",
+      "from_resolved_hex": "#e76f51",
+      "param_to": "#8a9bb3",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 301175,
+      "tgt_region_px": 301175,
+      "core_px": 294866,
+      "core_kind": "erode2",
+      "core_decision_trace": {
+        "erode2_px": 294866
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          231,
+          111,
+          81
+        ],
+        "tgt_rgb_med": [
+          138,
+          155,
+          179
+        ],
+        "src_lab_med": [
+          60.7434,
+          44.3038,
+          38.4427
+        ],
+        "tgt_lab_med": [
+          63.4253,
+          -0.6475,
+          -14.4634
+        ],
+        "tgt_rgb_p10": [
+          138,
+          155,
+          179
+        ],
+        "tgt_rgb_p90": [
+          138,
+          155,
+          179
+        ],
+        "src_to_tgt_dE00": 35.1246
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          138,
+          155,
+          179
+        ],
+        "dE00_vs_rendered": 0.0001
+      },
+      "bg_ring_lab_med": [
+        100.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "area": {
+    "allowed_mask_area_px": 1120788,
+    "allowed_mask_frac": 0.43780781,
+    "target_core_area_px": 1084838,
+    "target_core_frac": 0.42376484
+  },
+  "uncertifiable_reason": null
+}

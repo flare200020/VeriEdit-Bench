@@ -1,0 +1,19 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "chart_0206",
+  "family": null,
+  "edit_family": "grid_toggle",
+  "coverage_status": "uncovered_family",
+  "canvas": [
+    1400,
+    2200
+  ],
+  "objects": [],
+  "area": {
+    "allowed_mask_area_px": 36512,
+    "allowed_mask_frac": 0.01185455,
+    "target_core_area_px": null,
+    "target_core_frac": null
+  },
+  "uncertifiable_reason": null
+}

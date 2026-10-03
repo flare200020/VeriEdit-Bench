@@ -1,0 +1,134 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "web_0405",
+  "family": "color",
+  "edit_family": "color_replace",
+  "coverage_status": "covered",
+  "canvas": [
+    900,
+    1440
+  ],
+  "objects": [
+    {
+      "pair_id": 0,
+      "param_from": "#c89b9b",
+      "from_resolved_hex": "#c89b9b",
+      "param_to": "#7f8c8d",
+      "src_find_rule": "dE76<=8",
+      "src_region_px": 797,
+      "tgt_region_px": 797,
+      "core_px": 427,
+      "core_kind": "skeleton",
+      "core_decision_trace": {
+        "erode2_px": 12,
+        "skeleton_px": 427
+      },
+      "gt_render": {
+        "src_rgb_med": [
+          200,
+          155,
+          155
+        ],
+        "tgt_rgb_med": [
+          127,
+          140,
+          141
+        ],
+        "src_lab_med": [
+          68.0872,
+          16.7466,
+          6.4611
+        ],
+        "tgt_lab_med": [
+          57.261,
+          -4.4865,
+          -2.1423
+        ],
+        "tgt_rgb_p10": [
+          127,
+          140,
+          141
+        ],
+        "tgt_rgb_p90": [
+          147,
+          158,
+          158
+        ],
+        "src_to_tgt_dE00": 26.5751,
+        "repr_kind": "multi_hist",
+        "repr_diag": {
+          "core_outlier_frac_gt_med": 0.135831,
+          "core_outlier_frac_src_med": 0.044496,
+          "region_cover_share_tgt": 0.959849,
+          "region_cover_share_src": 1.0
+        },
+        "tgt_peaks": [
+          [
+            57.5783,
+            -4.4192,
+            -2.1145,
+            0.775408
+          ],
+          [
+            65.6936,
+            -3.6244,
+            -1.1736,
+            0.111669
+          ],
+          [
+            62.1755,
+            -3.6444,
+            -1.5447,
+            0.072773
+          ]
+        ]
+      },
+      "vs_param_to_check": {
+        "param_to_rgb": [
+          127,
+          140,
+          141
+        ],
+        "dE00_vs_rendered": 0.0
+      },
+      "bg_ring_lab_med": [
+        97.3317,
+        0.1324,
+        2.7496
+      ],
+      "src_render": {
+        "repr_kind": "multi_hist",
+        "src_peaks": [
+          [
+            68.2156,
+            16.676,
+            6.4305,
+            0.727729
+          ],
+          [
+            73.5929,
+            13.359,
+            5.5896,
+            0.141782
+          ],
+          [
+            70.2909,
+            15.3897,
+            6.0975,
+            0.130489
+          ]
+        ],
+        "repr_diag": {
+          "region_cover_share_src": 1.0
+        }
+      }
+    }
+  ],
+  "area": {
+    "allowed_mask_area_px": 1463,
+    "allowed_mask_frac": 0.00112886,
+    "target_core_area_px": 427,
+    "target_core_frac": 0.00032948
+  },
+  "uncertifiable_reason": null
+}

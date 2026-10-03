@@ -1,0 +1,19 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "svg_0139",
+  "family": null,
+  "edit_family": "stroke_dash",
+  "coverage_status": "uncovered_family",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "objects": [],
+  "area": {
+    "allowed_mask_area_px": 2611,
+    "allowed_mask_frac": 0.00249004,
+    "target_core_area_px": null,
+    "target_core_frac": null
+  },
+  "uncertifiable_reason": null
+}

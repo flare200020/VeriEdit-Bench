@@ -1,0 +1,19 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "ppt_0432",
+  "family": null,
+  "edit_family": "font_size_1.5x",
+  "coverage_status": "uncovered_family",
+  "canvas": [
+    864,
+    1536
+  ],
+  "objects": [],
+  "area": {
+    "allowed_mask_area_px": 24989,
+    "allowed_mask_frac": 0.01882972,
+    "target_core_area_px": null,
+    "target_core_frac": null
+  },
+  "uncertifiable_reason": null
+}

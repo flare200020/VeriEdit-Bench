@@ -1,0 +1,19 @@
+{
+  "schema": "target_meta/v1",
+  "case_id": "svg_0187",
+  "family": null,
+  "edit_family": "element_translate",
+  "coverage_status": "uncovered_family",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "objects": [],
+  "area": {
+    "allowed_mask_area_px": 68234,
+    "allowed_mask_frac": 0.06507301,
+    "target_core_area_px": null,
+    "target_core_frac": null
+  },
+  "uncertifiable_reason": null
+}

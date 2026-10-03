@@ -1,0 +1,49 @@
+VeriEdit-Bench Dataset License
+
+Copyright (c) 2026 The VeriEdit-Bench Authors
+
+1. Scope
+
+This license applies to the dataset files in this repository: cases.json and
+the contents of cases/ and references/. The evaluation code (score.py and
+scoring/) is licensed separately under the MIT License (see LICENSE).
+
+2. Our contributions
+
+To the extent that the VeriEdit-Bench Authors hold rights in them, the editing
+instructions, edit metadata, masks, target and reference images, color
+metadata, and other annotations are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0):
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+3. Third-party content
+
+Some rendered assets, in particular web-page and slide images, contain
+third-party material such as photographs, illustrations, logos, icons, and
+typefaces that were obtained from publicly accessible web sources. The
+VeriEdit-Bench Authors do not own this material and do not grant any license
+to it. All rights remain with the respective owners. Third-party material is
+included solely to define and evaluate image-editing tasks for non-commercial
+research. Users are responsible for ensuring that their own use complies with
+applicable laws and the rights of third parties.
+
+4. Permitted use
+
+The dataset is intended for non-commercial research and evaluation only. It
+must not be used to identify individuals, and images must not be extracted
+and redistributed as standalone content.
+
+5. Removal requests
+
+If you are a rights holder and believe that material in this repository
+should not be included, please open an issue in this repository identifying
+the affected case IDs. We will review the request and remove the material
+where appropriate.
+
+6. Disclaimer
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+DATASET OR ITS USE.
